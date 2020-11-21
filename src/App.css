@@ -137,3 +137,7 @@ input[type=radio]{
 	height: 50px;
 	display: inline;
 }
+ 
+Modal {
+	color :red;
+}
